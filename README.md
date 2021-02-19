@@ -28,3 +28,4 @@ reach out to our Product Manager, Niven Prasad, on [our Slack](https://hackforla
 - Find an automation that you want to build from our list of ideas: some are [half baked](https://github.com/100Automations/futureautomations/projects/1#column-9876971) and need more research, others are well documented
 - Propose a new idea for an automation
 - Tell us about an automation that you have already built that you would like to host here
+.
